@@ -1,4 +1,4 @@
-#Example tuple - tuples are imutable i.e they can be changed
+#Example tuple - tuples are imutable i.e they can't be changed
 days_of_week = ('Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat')
 
 #Great for programming effeciency and ITEMS can not be changed
